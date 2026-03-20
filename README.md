@@ -65,16 +65,7 @@ The three sections below explain exactly how each layer works.
 
 ---
 
-## System Architecture — End-to-End Flow
 
-The diagram below shows how a claim moves through all four defense layers, the composite risk
-scoring, and the three UX outcome paths — in a single view.
-
-![Anti-Spoofing System Flow](./system_flowchart.png)
-
-*Fig 1 — Complete claim processing flow: submission → 4 defense layers → risk score → payout decision*
-
----
 
 ## 1. The Differentiation
 
